@@ -8,3 +8,7 @@ Planned features:
 1. Allowing the user to play multiple rounds of the game.
 2. Adding a timer.
 3. Implementing a hint system for a user if they are stuck.
+
+
+Project URL:
+https://roadmap.sh/projects/number-guessing-game
