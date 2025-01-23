@@ -1,7 +1,8 @@
 # Number-Guessing-Game
-A basic number-guessing game built with Python
-
 This is my first project, and I would greatly appreciate any feedback on how to improve my code.
+
+## Description
+A basic number-guessing game built with Python
 
 Planned features:
 
