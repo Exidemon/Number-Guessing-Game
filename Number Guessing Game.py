@@ -1,5 +1,5 @@
 import random
-import ai
+
 level_is_chosen = False
 difficulty = ""
 random_num = str(random.randint(1, 100))
@@ -55,4 +55,3 @@ while continue_playing == True:
         else:
             print("You have run out of guessess!")
             break
-        
